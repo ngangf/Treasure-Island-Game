@@ -1,2 +1,2 @@
 # Treasure-Island-Game
-A python project for a treasure island game!
+A python project for a Treasure Island game!
